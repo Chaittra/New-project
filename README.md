@@ -1,2 +1,2 @@
 # New-project
-This is my first program.
+This is my Git Repository.
